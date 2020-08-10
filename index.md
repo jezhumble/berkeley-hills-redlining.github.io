@@ -1,8 +1,6 @@
 ---
 title: A summary of housing discrimination in the North Berkeley Hills
 ---
-# A summary of housing discrimination in the North Berkeley Hills
-
 The map below from 1909 shows the Northbrae Properties subdivision in
 the Berkeley
 Hills. ([source](https://digicoll.lib.berkeley.edu/record/58662),
@@ -121,7 +119,7 @@ racist local and national housing policy in the 20th century, is much
 the same today." [4]
 
 The history of this discrimination is also visible in the stone pillars
-that mark out the whites-only Mason-McDuffie developments.
+that mark out the whites-only Mason-McDuffie developments. [5]
 
 ## Further reading
 
