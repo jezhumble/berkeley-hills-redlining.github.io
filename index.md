@@ -10,7 +10,7 @@ of private residential parks, and marketed and sold by the
 
 ![Northbrae Properties 1909](images/northbrae_properties_1909_thumb.jpeg)
 
-![Berkeley Heights advertisement](images/berkeley_heights.png)]
+![Berkeley Heights advertisement](images/berkeley_heights.png)
 
 These developments were conceived through the vision of
 [Duncan McDuffie](https://en.wikipedia.org/wiki/Duncan_McDuffie), who
