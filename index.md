@@ -120,7 +120,7 @@ the same today." [4]
 The history of this discrimination is also visible in the stone pillars
 that mark out the whites-only Mason-McDuffie developments. [5]
 
-## Further reading
+## References and further reading
 
 - [1] Weiss, M. A. (1986).
 [Urban Land Developers and the Origins of Zoning Laws: The Case of Berkeley](https://escholarship.org/uc/item/26b8d8zh).
