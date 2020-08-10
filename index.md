@@ -3,15 +3,14 @@ title: A summary of housing discrimination in the North Berkeley Hills
 ---
 The map below from 1909 shows the Northbrae Properties subdivision in
 the Berkeley
-Hills. ([source](https://digicoll.lib.berkeley.edu/record/58662),
-[full size](images/northbrae_properties_1909.jpg).)
+Hills. ([source](https://digicoll.lib.berkeley.edu/record/58662))
 This subdivision was one of a number of tracts of land in the Bay Area bought and developed as a set
 of private residential parks, and marketed and sold by the
 [Mason-McDuffie Company](https://oac.cdlib.org/findaid/ark:/13030/tf800006jp/admin/#bioghist-1.3.4).
 
 ![Northbrae Properties 1909](images/northbrae_properties_1909_thumb.jpeg)
 
-![Berkeley Heights advertisement](images/berkeley_heights.png)
+![Berkeley Heights advertisement](images/berkeley_heights.png)]
 
 These developments were conceived through the vision of
 [Duncan McDuffie](https://en.wikipedia.org/wiki/Duncan_McDuffie), who
@@ -79,7 +78,7 @@ below. (source: [6], [full size](images/oakland-berkeley-redline.jpg))
 ![Security map for Oakland and Berkeley](images/oakland-berkeley-redline-thumb.jpeg)
 
 The enforcement of restrictive covenants and zoning laws was so effective that the
-Berkeley Hills area was listed as security grade "Green". In the
+North Berkeley Hills area was listed as security grade "Green". In the
 [accompanying description for area A-1](images/berkeley-a1.pdf), the zone in which the Berkeley
 Heights development is listed, the clarifying remarks (written on
 August 26, 1937) read as follows:
