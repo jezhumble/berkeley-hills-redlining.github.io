@@ -1,6 +1,14 @@
 ---
 title: A summary of housing discrimination in the North Berkeley Hills
 ---
+
+The East Bay, including Berkeley, is traditional
+[Lisjan Ohlone land](https://sogoreate-landtrust.com/shuumi-land-tax/#). Following
+the Spanish missions, which stole Ohlone land and enslaved the Ohlone people, the land on
+which Berkeley stands was
+[granted to Spanish Army sergeant Don Luís María Peralta](https://en.wikipedia.org/wiki/Rancho_San_Antonio_(Peralta)),
+and then subsequently subdivided and sold off.
+
 The map below from 1909 shows the Northbrae Properties subdivision in
 the Berkeley
 Hills. ([source](https://digicoll.lib.berkeley.edu/record/58662))
@@ -119,6 +127,22 @@ the same today." [4]
 
 The history of this discrimination is also visible in the stone pillars
 that mark out the whites-only Mason-McDuffie developments. [5]
+
+What you can do:
+
+- Pay reparations by donating
+  [Shuumi land tax](https://sogoreate-landtrust.org/) annually to the
+  Lisjan Ohlone people still living in the East Bay
+  ([more background](https://www.theguardian.com/us-news/2019/dec/31/native-american-land-taxes-reparations))
+- Read the
+  [Remedies, Solutions, and Targets](https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-5)
+  section of UC Berkeley's
+  [Othering and Belonging Institute](https://belonging.berkeley.edu/)'s
+  study on
+  [Racial Segregation in the San Francisco Bay Area](https://belonging.berkeley.edu/segregationinthebay)
+  and learn about the importance of affordable housing, inclusionary
+  zoning, and rent control to remedy Berkeley's history of racial
+  discrimination and segregation.
 
 ## References and further reading
 
