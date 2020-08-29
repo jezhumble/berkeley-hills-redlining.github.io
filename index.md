@@ -132,14 +132,13 @@ What you can do:
 
 - Pay reparations by donating
   [Shuumi land tax](https://sogoreate-landtrust.org/) annually to the
-  Lisjan Ohlone people still living in the East Bay
-  ([more background](https://www.theguardian.com/us-news/2019/dec/31/native-american-land-taxes-reparations))
+  Lisjan Ohlone people still living in the East Bay [7].
 - Read the
   [Remedies, Solutions, and Targets](https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-5)
-  section of UC Berkeley's
+  section in the
   [Othering and Belonging Institute](https://belonging.berkeley.edu/)'s
   study on
-  [Racial Segregation in the San Francisco Bay Area](https://belonging.berkeley.edu/segregationinthebay)
+  [Racial Segregation in the San Francisco Bay Area](https://belonging.berkeley.edu/segregationinthebay),
   and learn about the importance of affordable housing, inclusionary
   zoning, and rent control to remedy Berkeley's history of racial
   discrimination and segregation.
@@ -148,7 +147,7 @@ What you can do:
 
 - [0]
   [Living on Ohlone land](https://m.eastbayexpress.com/oakland/living-on-ohlone-land/Content?oid=16512595&showFullText=true). East
-  Bay Express, May 2018.
+  Bay Express, May 30, 2018.
 - [1] Weiss, M. A. (1986).
 [Urban Land Developers and the Origins of Zoning Laws: The Case of Berkeley](https://escholarship.org/uc/item/26b8d8zh).
 Berkeley Planning Journal, 3(1).
@@ -165,6 +164,9 @@ Berkeley Planning Journal, 3(1).
   R. (2017). [Hidden Monuments to Racism](https://www.eastbayexpress.com/oakland/hidden-monuments-to-racism/Content?oid=9251259). East
   Bay Express, September 20, 2017.
 - [6] [Testbed for the Redlining Archive of California's Exclusionary Spaces](http://salt.umd.edu/T-RACES/)
+- [7]
+  [Native American 'land taxes': a step on the roadmap for reparations](https://www.theguardian.com/us-news/2019/dec/31/native-american-land-taxes-reparations). The
+  Guardian, December 31, 2019.
 
 With thanks to [Darrell Owens](https://twitter.com/IDoTheThinking) for
 his advocacy work on housing discrimination in Berkeley.
