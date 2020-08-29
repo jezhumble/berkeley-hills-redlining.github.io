@@ -169,4 +169,6 @@ Berkeley Planning Journal, 3(1).
   Guardian, December 31, 2019.
 
 With thanks to [Darrell Owens](https://twitter.com/IDoTheThinking) for
-his advocacy work on housing discrimination in Berkeley.
+his advocacy work on housing discrimination in Berkeley, and Corrina
+Gould, Traditional Spokesperson and Tribal Chair of the Confederated
+Villages of Lisjan.
