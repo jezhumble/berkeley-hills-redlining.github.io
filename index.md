@@ -1,5 +1,5 @@
 ---
-title: A summary of housing discrimination in the North Berkeley Hills
+title: A summary of housing discrimination in Berkeley's Northbrae district
 ---
 
 The East Bay, including Berkeley, is traditional
