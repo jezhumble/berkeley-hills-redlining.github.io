@@ -4,10 +4,12 @@ title: A summary of housing discrimination in Berkeley's Northbrae district
 
 The East Bay, including Berkeley, is traditional
 [Lisjan Ohlone land](https://sogoreate-landtrust.com/shuumi-land-tax/#). Following
-the Spanish missions, which stole Ohlone land and enslaved the Ohlone people, the land on
+the
+[Spanish missions](https://en.wikipedia.org/wiki/Spanish_missions_in_California#cite_note-4),
+which stole Ohlone land and enslaved the Ohlone people, the land on
 which Berkeley stands was
-[granted to Spanish Army sergeant Don Luís María Peralta](https://en.wikipedia.org/wiki/Rancho_San_Antonio_(Peralta)),
-and then subsequently subdivided and sold off.
+[granted to Spanish Army sergeant Don Luís María Peralta](https://en.wikipedia.org/wiki/Rancho_San_Antonio_(Peralta))
+in 1820, and then subsequently subdivided and sold off.
 
 The map below from 1909 shows the Northbrae Properties subdivision in
 the Berkeley
