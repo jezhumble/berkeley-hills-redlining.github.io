@@ -78,9 +78,10 @@ created "security maps" to help banks assess the risks of lending,
 based on the location of the home. These maps divided cities into
 grades from "A" (green, the best areas) through to "D" (red, hazardous
 areas). These maps were used to legally discriminate against ethnic
-and racial minorities, a practice known as ["redlining"](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america). Loans
-were denied to people in non-white communities since their neighborhoods were
-listed as grades C and D, and thus such loans were classified as being at a high risk of default. The Federal Housing Administration (FHA) created an _Underwriting Manual_ which said that "incompatible racial groups should not be permitted to live in the same communities," since based on the logic of the HOLC's classification system, "infiltration" of non-white homeowners would result in down-grading of the area.  This prevented loans to non-white people wanting to buy in A or B zones from being insured, effectively excluding them from these zones.
+and racial minorities, a practice known as ["redlining"](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america).
+
+Loans were denied to people in non-white communities since their neighborhoods were
+listed as grades C and D, and thus such loans were classified as being at a high risk of default. The Federal Housing Administration (FHA) created an _Underwriting Manual_ which said that "incompatible racial groups should not be permitted to live in the same communities," since based on the logic of the HOLC's classification system, "infiltration" of non-white homeowners would result in down-grading of the area.  This prevented loans to non-white people wanting to buy in A or B zones from being insured, effectively excluding them from these zones. Further, HOLC/FHA borrowers [could not get aid or a mortgage guarantee](http://www.redliningvirginia.org/exhibits/show/the-national-story/restrictive-covenants) without having a race-restrictive covenant on their home or covering their neighborhood, perpetuating housing segregation.
 
 The 1937 security map for Oakland and Berkeley is shown
 below. (source: [6], [full size](images/oakland-berkeley-redline.jpg))
