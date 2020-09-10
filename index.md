@@ -39,9 +39,9 @@ and become void...." [3]. Covenants also forebade the construction of
 anything other than single-family properties on Mason-McDuffie
 residential developments.
 
-However such covenants were limited in term, and could not control
+Such covenants were limited in term, and could not control
 what happened outside the boundaries of private residential
-developments. Public zoning ordinances, first deployed in Los Angeles,
+developments. Thus public zoning ordinances, first deployed in Los Angeles,
 were adopted by Berkeley to help maintain racial residential
 segregation in the face of these and other limitations of restrictive
 covenants (see [1]).
@@ -78,9 +78,9 @@ created "security maps" to help banks assess the risks of lending,
 based on the location of the home. These maps divided cities into
 grades from "A" (green, the best areas) through to "D" (red, hazardous
 areas). These maps were used to legally discriminate against ethnic
-and racial minorities: a practice known as "redlining", in which loans
-were denied to people in Black communities, whose neighborhoods were
-listed as grades C and D.
+and racial minorities, a practice known as ["redlining"](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america). Loans
+were denied to people in non-white communities since their neighborhoods were
+listed as grades C and D, and thus such loans were classified as being at a high risk of default. The Federal Housing Administration (FHA) created an _Underwriting Manual_ which said that "incompatible racial groups should not be permitted to live in the same communities," since based on the logic of the HOLC's classification system, "infiltration" of non-white homeowners would result in down-grading of the area.  This prevented loans to non-white people wanting to buy in A or B zones from being insured, effectively excluding them from these zones.
 
 The 1937 security map for Oakland and Berkeley is shown
 below. (source: [6], [full size](images/oakland-berkeley-redline.jpg))
@@ -133,44 +133,44 @@ that mark out the whites-only Mason-McDuffie developments. [5]
 What you can do:
 
 - Pay reparations by donating
-  [Shuumi land tax](https://sogoreate-landtrust.org/) annually to the
-  Lisjan Ohlone people still living in the East Bay [7].
+[Shuumi land tax](https://sogoreate-landtrust.org/) annually to the
+Lisjan Ohlone people still living in the East Bay [7].
 - Read the
-  [Remedies, Solutions, and Targets](https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-5)
-  section in the
-  [Othering and Belonging Institute](https://belonging.berkeley.edu/)'s
-  study on
-  [Racial Segregation in the San Francisco Bay Area](https://belonging.berkeley.edu/segregationinthebay),
-  and learn about the importance of affordable housing, inclusionary
-  zoning, and rent control to remedy Berkeley's history of racial
-  discrimination and segregation.
+[Remedies, Solutions, and Targets](https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-5)
+section in the
+[Othering and Belonging Institute](https://belonging.berkeley.edu/)'s
+study on
+[Racial Segregation in the San Francisco Bay Area](https://belonging.berkeley.edu/segregationinthebay),
+and learn about the importance of affordable housing, inclusionary
+zoning, and rent control to remedy Berkeley's history of racial
+discrimination and segregation.
 
 ## References and further reading
 
 - [0]
-  [Living on Ohlone land](https://m.eastbayexpress.com/oakland/living-on-ohlone-land/Content?oid=16512595&showFullText=true). East
-  Bay Express, May 30, 2018.
+[Living on Ohlone land](https://m.eastbayexpress.com/oakland/living-on-ohlone-land/Content?oid=16512595&showFullText=true). East
+Bay Express, May 30, 2018.
 - [1] Weiss, M. A. (1986).
 [Urban Land Developers and the Origins of Zoning Laws: The Case of Berkeley](https://escholarship.org/uc/item/26b8d8zh).
 Berkeley Planning Journal, 3(1).
 - [2] Moore, E. et al
-  (2019). [Roots, Race and Place: A History of Racially Exclusionary Housing in the San Francisco Bay Area](https://belonging.berkeley.edu/rootsraceplace).
-  Haas Institute, UC Berkeley.
+(2019). [Roots, Race and Place: A History of Racially Exclusionary Housing in the San Francisco Bay Area](https://belonging.berkeley.edu/rootsraceplace).
+Haas Institute, UC Berkeley.
 - [3] Lorey,
-  M. T. (2013). [A History of Residential Segregation in Berkeley, California, 1878-1960](http://www.schoolinfosystem.org/pdf/2014/06/04SegregationinCA24-2.pdf).
-  Concord Review, 24(2).
+M. T. (2013). [A History of Residential Segregation in Berkeley, California, 1878-1960](http://www.schoolinfosystem.org/pdf/2014/06/04SegregationinCA24-2.pdf).
+Concord Review, 24(2).
 - [4] Barber,
-  J. (2018). [Redlining: The history of Berkeley’s segregated neighborhoods](https://www.berkeleyside.com/2018/09/20/redlining-the-history-of-berkeleys-segregated-neighborhoods).
-  Berkeleyside, September 20, 2018.
+J. (2018). [Redlining: The history of Berkeley’s segregated neighborhoods](https://www.berkeleyside.com/2018/09/20/redlining-the-history-of-berkeleys-segregated-neighborhoods).
+Berkeleyside, September 20, 2018.
 - [5] Gammon,
-  R. (2017). [Hidden Monuments to Racism](https://www.eastbayexpress.com/oakland/hidden-monuments-to-racism/Content?oid=9251259). East
-  Bay Express, September 20, 2017.
-- [6] [Testbed for the Redlining Archive of California's Exclusionary Spaces](http://salt.umd.edu/T-RACES/)
+R. (2017). [Hidden Monuments to Racism](https://www.eastbayexpress.com/oakland/hidden-monuments-to-racism/Content?oid=9251259). East
+Bay Express, September 20, 2017.
+- [6] [Testbed for the Redlining Archive of California's Exclusionary Spaces](http://salt.umd.edu/T-RACES/). See also the University of Richmond's [interactive redlining map of the USA](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58).
 - [7]
-  [Native American 'land taxes': a step on the roadmap for reparations](https://www.theguardian.com/us-news/2019/dec/31/native-american-land-taxes-reparations). The
-  Guardian, December 31, 2019.
+[Native American 'land taxes': a step on the roadmap for reparations](https://www.theguardian.com/us-news/2019/dec/31/native-american-land-taxes-reparations). The
+Guardian, December 31, 2019.
 
 With thanks to [Darrell Owens](https://twitter.com/IDoTheThinking) for
-his advocacy work on housing discrimination in Berkeley, and Corrina
-Gould, Traditional Spokesperson and Tribal Chair of the Confederated
+his advocacy work on housing discrimination in Berkeley, and [Corrina
+Gould](https://womensearthalliance.org/weawomen/2019-us-accelerator/corrina-gould/), Traditional Spokesperson and Tribal Chair of the Confederated
 Villages of Lisjan.
