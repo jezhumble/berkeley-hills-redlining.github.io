@@ -88,8 +88,8 @@ below. (source: [6], [full size](images/oakland-berkeley-redline.jpg))
 
 ![Security map for Oakland and Berkeley](images/oakland-berkeley-redline-thumb.jpeg)
 
-The enforcement of restrictive covenants and zoning laws was so effective that the
-North Berkeley Hills area was listed as security grade "Green". In the
+The enforcement of restrictive covenants and zoning laws pioneered by McDuffie and his allies was so effective that the
+North Berkeley Hills area, along with the Claremont area also developed by Mason and McDuffie, were listed as grade A. In the
 [accompanying description for area A-1](images/berkeley-a1.pdf), the zone in which the Berkeley
 Heights development is listed, the clarifying remarks (written on
 August 26, 1937) read as follows:
