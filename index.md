@@ -35,7 +35,7 @@ sales process through restrictive covenants. The Mason-McDuffie Co. covenant sta
 its final condition: "if prior to the first day of January 1930 any
 person of African or Mongolian descent shall be allowed to purchase or
 lease said property or any part thereof, then this conveyance shall be
-and become void...." [3]. Covenants also forebade the construction of
+and become void...." [3]. Covenants also forbade the construction of
 anything other than single-family properties on Mason-McDuffie
 residential developments.
 
@@ -81,7 +81,7 @@ areas). These maps were used to legally discriminate against ethnic
 and racial minorities, a practice known as ["redlining"](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america).
 
 Loans were denied to people in non-white communities since their neighborhoods were
-listed as grades C and D, and thus such loans were classified as being at a high risk of default. The Federal Housing Administration (FHA) created an _Underwriting Manual_ which said that "incompatible racial groups should not be permitted to live in the same communities," since based on the logic of the HOLC's classification system, "infiltration" of non-white homeowners would result in down-grading of the area.  This prevented loans to non-white people wanting to buy in A or B zones from being insured, effectively excluding them from these zones. Further, HOLC/FHA borrowers [could not get aid or a mortgage guarantee](http://www.redliningvirginia.org/exhibits/show/the-national-story/restrictive-covenants) without having a race-restrictive covenant on their home or covering their neighborhood, perpetuating housing segregation.
+listed as grades C and D, and thus such loans were classified as being at a high risk of default. The Federal Housing Administration (FHA) created an _Underwriting Manual_ which said that "incompatible racial groups should not be permitted to live in the same communities," since based on the logic of the HOLC's classification system, "infiltration" of non-white homeowners would result in down-grading of the area.  This prevented loans to non-white people wanting to buy in A or B zones from being insured, effectively excluding them from these zones. Further, the FHA favored, and in some cases required, [race-restrictive covenants](http://www.redliningvirginia.org/exhibits/show/the-national-story/restrictive-covenants) as a condition of insuring developments, perpetuating housing segregation.
 
 The 1937 security map for Oakland and Berkeley is shown
 below. (source: [6], [full size](images/oakland-berkeley-redline.jpg))
@@ -108,7 +108,7 @@ first efforts of its kind. However, the opposition was
 tremendous. Within months, residents opposed to the new law had
 gathered enough signatures to place a referendum on the April
 ballot. Tensions ran so high that three Berkeley High students set a
-cross on fire on the lawn of Fred Stripps, a liberal mayoral candidate
+cross on fire on the lawn of Fred Stripp, a liberal mayoral candidate
 who opposed the referendum. There was a record turnout of voters — one
 account said 82% of Berkeley voters went to the polls  — and the law
 was repealed. The fair housing law was rescinded on the grounds that
@@ -119,7 +119,7 @@ Congo-lize our city.' A Thousand Oaks realtor said, 'The day I have to
 sell to a Negro and ruin this fine district, I’ll close up and get out
 of the real estate business.'" [4] 
 
-While the Fair Housing Act (Title VII of the Civil Rights Act of 1968)
+While the Fair Housing Act (Title VIII of the Civil Rights Act of 1968)
 outlaws housing discrimination, the effects of housing discrimination
 are still visible: "Those areas that were labeled desirable on
 the HOLC maps remain the most sought-after real estate in Berkeley,
